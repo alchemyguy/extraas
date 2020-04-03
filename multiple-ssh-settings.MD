@@ -16,7 +16,7 @@ for example, 2 keys created at:
 	~/.ssh/id_rsa_activehacker
 	~/.ssh/id_rsa_jexchan
 
-then, add these two keys as following
+then, add these two keys as following:
 
 	$ ssh-add ~/.ssh/id_rsa_activehacker
 	$ ssh-add ~/.ssh/id_rsa_jexchan
